@@ -767,16 +767,16 @@
 
 ## <a name='semicolons'>Semicolons</a>
 
-  - **Yup.**
+  - **Meh.**
 
     ```javascript
-    // bad
+    // sure
     (function () {
       var name = 'Skywalker'
       return name
     })()
 
-    // good
+    // okay
     (function () {
       var name = 'Skywalker';
       return name;
